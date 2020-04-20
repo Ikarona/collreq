@@ -1,0 +1,17 @@
+POST https://railwire.co.in/Ajax.php?function=unset_all_session
+Host railwire.co.in
+Connection keep-alive
+Content-Length 0
+Accept */*
+Sec-Fetch-Dest empty
+X-Requested-With XMLHttpRequest
+User-Agent Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.0 Safari/537.36
+Origin https://railwire.co.in
+Sec-Fetch-Site same-origin
+Sec-Fetch-Mode cors
+Referer https://railwire.co.in/
+Accept-Encoding gzip, deflate, br
+Accept-Language ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie _ga=GA1.3.110947802.1587328675; _gid=GA1.3.705140637.1587328675; _gat=1
+
+undefined
